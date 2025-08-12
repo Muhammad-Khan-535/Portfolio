@@ -43,8 +43,8 @@ const projects = [
     src: "Portfolio.jpg",
     link: "https://i.postimg.cc/j26s249T/Portfolio.png",
     color: "#8f89ff",
-    githubLink: "",
-    liveLink: "",
+    githubLink: "https://github.com/Muhammad-Khan-535/Portfolio/tree/main",
+    liveLink: "https://portfolio-delta-one-41.vercel.app/",
   },
 ];
 
