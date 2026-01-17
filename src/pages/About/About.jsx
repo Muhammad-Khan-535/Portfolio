@@ -27,8 +27,8 @@ export default function About() {
                 specializing in creating innovative web solutions and
                 user-friendly interfaces. I focus on making web development
                 faster, easier, and more accessible for everyone. I’m a Frontend
-                Developer and a final-year Computer Systems Engineering student
-                at Mehran University of Engineering and Technology, Jamshoro,
+                Developer and graduated from Mehran University of Engineering and Technology, Jamshoro,
+                in field Computer Systems Engineering.
                 where I’m honing my expertise in modern web technologies.
               </p>
               <p className="text-white">
