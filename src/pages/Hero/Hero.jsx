@@ -41,7 +41,7 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "Frontend Developer & UI/UX Enthusiast",
+    "Frontend Developer",
     "JavaScript Developer & React",
     "Learning MARN Stack",
   ];
@@ -51,8 +51,8 @@ const profile = {
     name: 'Muhammad Khan',
     title: 'Fronted Developer | Problem Solver',
     skills: [
-        'JavaScript','Bootstrap','Tailwind Css','React','Redux',
-        'MySQL','Git',
+        'Html', 'CSS', 'JavaScript','Bootstrap','Tailwind Css','React',
+        'MySQL','Git','Express','MongoDB'
     ],
     hardWorker: true,
     quickLearner: true,
